@@ -36,7 +36,7 @@ nav > div{
     margin-left:500px ;
  }
  .ll,.log{
-     margin-top:25px;
+     margin-top:23px;
      padding-right:40px;
  }
 a{
@@ -144,7 +144,7 @@ a{
         padding-top:15px;
     }
     nav > div{
-        margin-left:25px;
+        margin-left:20px;
         padding:0.5rem;
     }
     
@@ -170,7 +170,7 @@ a{
     .navbar-btn{
         position: relative;
         bottom:-22px;
-        width:8.5vw;
+        width:9vw;
         height: 1vh;
         border-radius: 5px;
         padding-bottom: 5px;
